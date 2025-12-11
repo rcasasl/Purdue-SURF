@@ -7,7 +7,6 @@ This repository contains the code developed during my **Summer Undergraduate Res
 The project studies **leakage-free entangling quantum gates in the Fibonacci anyon model**, using explicit matrix representations of the braid group generators.
 
 ## Project overview
-**
 The code:
 
 - Implements the **F-** and **R-moves** for Fibonacci anyons using the golden ratio `φ`.
@@ -25,4 +24,3 @@ The code:
 
 At the end of the script, several example braid words are tested and the code
 prints whether they are leakage-free and/or entangling.
-**
