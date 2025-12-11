@@ -9,7 +9,7 @@ The project studies **leakage-free entangling quantum gates in the Fibonacci any
 ## Project overview
 The code:
 
-- Implements the **F-** and **R-moves** for Fibonacci anyons using the golden ratio `φ`.
+- Implements the **F-matrices** and **R-symbols** for Fibonacci anyons using the golden ratio `φ`.
 - Builds explicit matrix representations of the braid generators  
   \(\sigma_1, \dots, \sigma_5\) on a 5-dimensional fusion space.
 - Verifies the **braid relations**  
